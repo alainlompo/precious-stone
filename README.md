@@ -13,7 +13,7 @@ If you have worked with such object oriented programming language as java, c# or
 <p>
 <h2>Extending your ruby platform with gems</h2><br/>
 You use the <B>gem install</B> command to install extra features for your ruby platform via gems. A nice way to handle gems is through the use of the <a href='http://bundler.io/'>bundler gem</a>. Once it is install use <b><u>bundle install</u></b> to install a bunch of gems (through a GemFile similar to the one we've added in this repo). You will see a few lines telling you about the dependencies that are being install in order for you to benefit from the extra features.
-<br/>
+<br/><br/>
 <img src='https://github.com/alainlompo/precious-stone/blob/master/short-learning-curve/bundle_install_dependency_resolution.png' alt='bundler dependency resolution illustration' />
 <br/>
 <br/>
