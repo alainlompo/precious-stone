@@ -16,6 +16,7 @@ You use the <B>gem install</B> command to install extra features for your ruby p
 <br/>
 <img src='https://github.com/alainlompo/precious-stone/blob/master/short-learning-curve/bundle_install_dependency_resolution.png' alt='bundler dependency resolution illustration' />
 <br/>
+<br/>
 For the Linux/unix world <a href='https://rvm.io/'>rvm</a> is another great tool to help you install and handle your gems and their dependencies along with various ruby environments
 </p>
 
